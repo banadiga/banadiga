@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I am JavaDay Lviv and CoffeeJug organizer, member of Devoxx Ukraine, Morning@Lohika and Kotlin Night Kyiv program committee, JUG UA active member, leader of Lviv Java Club, and Lviv NodeJs Club.
+I am JavaDay Lviv, CoffeeJug, and KotLand organizer, leader of Lviv JavaClub, speaker, and JUG UA active member. 
 
 https://www.linkedin.com/in/ihorbanadiga/
